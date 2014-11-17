@@ -1,0 +1,6 @@
+
+src/com/structuredoutputclassifiers/classifier/NaiveHMM.java
+out
+.idea
+*.iml
+Structured Output Classifiers.jar
